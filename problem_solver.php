@@ -7,5 +7,10 @@ class ProblemSolver{
 	{
 		var mainProblem = "her";
 	}
+
+	function ToString()
+	{
+		echo "Output as a string";
+	}
 	
 }
